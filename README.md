@@ -20,3 +20,4 @@ Hugo Cerda G.
 Guillermo Yañez
 Pablo Martinez Duran
 Camilo Burgos
+Pablo Vergara A.
