@@ -1,3 +1,3 @@
 # ejemplosBS
 Ejemplos de Boostrap
-Sergio
+Sergio Fuentes
