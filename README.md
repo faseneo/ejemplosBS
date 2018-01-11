@@ -12,7 +12,6 @@ Sergio Fuentes
 Abel Reyes
 Ricardo Reyes
 daniel araneda
-Arturo Quintero Cortes
 Carlos Restrepo
 Hugo Cerda G.
 luis gorigoitia
