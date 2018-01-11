@@ -1,4 +1,7 @@
 # ejemplosBS
 Ejemplos de Boostrap
-Jonathan Moya
 daniel araneda
+Jonathan Moya
+quipa
+Jorge B.
+Jonathan Moya
