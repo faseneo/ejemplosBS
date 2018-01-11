@@ -11,7 +11,7 @@ Gerardo Orellana
 Sergio Fuentes
 Abel Reyes
 Ricardo Reyes
-daniel araneda
+daniel araneda zuñiga
 Axel Carreño
 Pablo Martinez Duran
 Arturo Quintero Cortes
