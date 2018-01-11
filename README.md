@@ -1,15 +1,6 @@
 # ejemplosBS
 Ejemplos de Boostrap
-Jonathan Moya
-quipa
-Jorge B.
-Arturo Quintero Cortes
-Jonathan Moya
-Carlos Restrepo
-Jorge B.
-Jonathan Moya
-Hugo Cerda G.
-luis gorigoitia
+
 Francisco Segovia
 Jorge B.
 Hernan Gonzalez
@@ -21,3 +12,8 @@ Sergio Fuentes
 Abel Reyes
 Ricardo Reyes
 daniel araneda
+Arturo Quintero Cortes
+Carlos Restrepo
+Hugo Cerda G.
+luis gorigoitia
+Guillermo Yañez
