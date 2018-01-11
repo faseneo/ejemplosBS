@@ -1,3 +1,6 @@
 # ejemplosBS
 Ejemplos de Boostrap
-Hernan Gonzalez G.
+Hernan Gonzalez
+Francisco Segovia
+Jorge B.
+Jonathan Moya
