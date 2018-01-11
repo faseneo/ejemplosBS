@@ -1,7 +1,8 @@
 ﻿# ejemplosBS
 Ejemplos de Boostrap
-Hernan Gonzalez G
+Hernan Gonzalez G.
 Francisco Segovia
+luis gorigoitia
 Jorge B.
 Oscar Alarcón
 Mario Peña
@@ -16,6 +17,6 @@ Pablo Martinez Duran
 Arturo Quintero Cortes
 Carlos Restrepo
 Hugo Cerda G.
-luis gorigoitia
 Guillermo Yañez
 Pablo Martinez Duran
+Camilo Burgos
