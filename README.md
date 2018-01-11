@@ -1,7 +1,7 @@
 # ejemplosBS
 Ejemplos de Boostrap
-<<<<<<< HEAD
 Gerardo Orellana
+Sergio Fuentes
 luis gorigoitia
 Jonathan Moya
 Francisco Segovia
