@@ -19,3 +19,4 @@ Hugo Cerda G.
 luis gorigoitia
 Guillermo Yañez
 Pablo Martinez Duran
+Camilo Burgos
