@@ -19,3 +19,4 @@ Carlos Restrepo
 Hugo Cerda G.
 Guillermo Yañez
 Pablo Martinez Duran
+Camilo Burgos
