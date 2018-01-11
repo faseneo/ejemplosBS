@@ -12,8 +12,10 @@ Sergio Fuentes
 Abel Reyes
 Ricardo Reyes
 daniel araneda
+<<<<<<< HEAD
 Arturo Quintero Cortes
 Carlos Restrepo
 Hugo Cerda G.
 luis gorigoitia
 Guillermo Yañez
+Pablo Martinez Duran
