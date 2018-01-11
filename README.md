@@ -22,3 +22,4 @@ Sergio Fuentes
 luis gorigoitia
 Jonathan Moya
 Francisco Segovia
+Ricardo Reyes
